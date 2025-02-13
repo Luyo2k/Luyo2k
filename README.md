@@ -28,15 +28,6 @@
 ---
 
 
-<td width="50%" align="center">
-
- 
-  
-  </td>
-</tr>
-</table>
-
----
 
 
 </p>
