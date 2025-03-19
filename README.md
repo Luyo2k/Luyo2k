@@ -10,7 +10,7 @@
   
 
 
-<div style="background-color:black;">
+<div style="box-shadow:0 5 7px black">
 - 📫 How to reach me Luyoamber12@gmail.com
   
 - ⚡️ Fun fact Call me as Amber
