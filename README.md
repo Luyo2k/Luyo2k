@@ -1,3 +1,6 @@
+<div style="background-color: black; color: white; padding: 20px; text-align: center;">
+
+</div>
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Luyuamber sanchez</h1>
