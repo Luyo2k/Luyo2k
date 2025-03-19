@@ -10,11 +10,11 @@
   
 
 
-
+<div style="background-color:black;">
 - 📫 How to reach me Luyoamber12@gmail.com
   
 - ⚡️ Fun fact Call me as Amber
-
+</div>
 </td>
 <td width="50%" align="center">
 
